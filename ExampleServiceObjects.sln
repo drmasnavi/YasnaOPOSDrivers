@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YasnaScanner", "YasnaScanner.csproj", "{9E29A865-1E32-44E2-9BB6-418AB67AC77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestComData", "..\TestComData\TestComData.csproj", "{BBCC2105-A720-447B-9A1C-F1E2290D4D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E29A865-1E32-44E2-9BB6-418AB67AC77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E29A865-1E32-44E2-9BB6-418AB67AC77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E29A865-1E32-44E2-9BB6-418AB67AC77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E29A865-1E32-44E2-9BB6-418AB67AC77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCC2105-A720-447B-9A1C-F1E2290D4D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC2105-A720-447B-9A1C-F1E2290D4D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC2105-A720-447B-9A1C-F1E2290D4D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC2105-A720-447B-9A1C-F1E2290D4D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20C2D3D-C1C9-406D-AC72-221F3BE13452}
+	EndGlobalSection
+EndGlobal
